@@ -1,6 +1,6 @@
 # GRPC Client
 This is a simple example to use the gRPC into the Spring-Boot app   
-For more details about the server take a look here: [https://github.com/felipegirotti/grpc-server](https://github.com/felipegirotti/grpc-server)
+For more details about the server take a look here: [https://github.com/felipegirotti/grpc-server-spring-boot](https://github.com/felipegirotti/grpc-server-spring-boot)
 
 - Dependencies of pom
 ```xml
